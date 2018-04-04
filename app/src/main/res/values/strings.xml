@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+    <string name="loading">Loading…</string>
+    <string name="log_error_occurred">"Error occurred: "</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="web_client_id">Include your web client id here</string>
+</resources>
